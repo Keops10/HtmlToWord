@@ -21,7 +21,6 @@
         // <Html><body>METİN İÇERİĞİ</body></html>
         public string Belge_Icerigi { get; set; }
 
-        public List<string> Adres { get; set; }
 
     }
 }
